@@ -1,0 +1,1 @@
+print('It is nice to finish this course')
