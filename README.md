@@ -1,6 +1,6 @@
 Python for everybody is a specialization taught by Dr Chuck (https://www.dr-chuck.com/) that I studied through Coursera (https://www.coursera.org/specializations/python)
 
-I uploaded most file exercises or assingments into this directory. If you are interested in learning python, I do recommend this course.
+I uploaded most file exercises or assingments into this directory. If you are interested in learning python, I do recommend this course. (Not that much for data analysis though; It does not cover Numpy neither Pandas libraries.)
 
 Dr Chuck also provides a free book of python that you can find on: https://www.py4e.com/book
 
