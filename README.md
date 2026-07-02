@@ -4,7 +4,7 @@ I uploaded most file exercises or assingments into this directory. If you are in
 
 Dr Chuck also provides a free book of python that you can find on: https://www.py4e.com/book
 
-Have a look to the folders in following the order:
+Please have a look to the folders on the following the order:
 
 1) python_for_everybody
 
@@ -12,4 +12,9 @@ Have a look to the folders in following the order:
 
 3) using_python_to_access_web_data
 
-4) using_database_with_python 
+4) using_database_with_python
+
+Most of the assingments inside the folders are matching the chapter of the free python book provided. The Coursera Specialization also follows the book's chapter order.
+
+**Note that the question the file .py solves is commented above the solution**
+
