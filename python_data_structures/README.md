@@ -17,6 +17,8 @@ On the command line, run:
 py assingment_7.2.py 
 run a test with any of the .txt files available and make sure to test mbox_s.txt
 
+(...)
+
 The final assingment is of this course is assingment_10.2. Find below the final question:
 
 10.2 Write a program to read through the mbox-short.txt and figure out the distribution by hour of the day for each of the messages. 
