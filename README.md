@@ -4,7 +4,7 @@ I uploaded most file exercises or assingments into this directory. If you are in
 
 Dr Chuck also provides a free book of python that you can find on: https://www.py4e.com/book
 
-# Please have a look to the folders on the following the order:
+# Please have a look to the folders on the following the order
 
 1) python_for_everybody
 
