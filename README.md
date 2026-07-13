@@ -4,7 +4,7 @@ I uploaded most file exercises or assingments into this directory. If you are in
 
 Dr Chuck also provides a free book of python that you can find on: https://www.py4e.com/book
 
-Please have a look to the folders on the following the order:
+# Please have a look to the folders on the following the order:
 
 1) python_for_everybody
 
@@ -16,5 +16,5 @@ Please have a look to the folders on the following the order:
 
 Most of the assingments inside the folders are matching the chapter of the free python book provided. The Coursera Specialization also follows the book's chapter order.
 
-**Note that the question the file .py solves is commented above the solution**
+**Note that the question that the .py file solves is commented above the solution**
 
